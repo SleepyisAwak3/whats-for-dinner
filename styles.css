@@ -10,7 +10,7 @@ red - #ee5253
 }
 
 body {
-  background-image: url(assets/burger-friends.jpg);
+  background-image: url(/Users/ryanbaer/home/1mod/projects/whats-for-dinner/assets/burger-friends.jpg);
   background-size: cover;
   margin: 0px
 }
@@ -101,4 +101,15 @@ input[type="radio"]{
 
 .dish-option{
   margin: 2%;
+}
+
+#favorite-button{
+  margin-left: 67.5%;
+  background-color: #0fb9b1;
+  border-radius: 4px;
+  border: 2px;
+  border-color: coral;
+  width: 160px;
+  height: 30px;
+  font-size: 85%;
 }
