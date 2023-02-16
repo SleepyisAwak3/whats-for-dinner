@@ -10,7 +10,7 @@ red - #ee5253
 }
 
 body {
-  background-image: url(/Users/ryanbaer/home/1mod/projects/whats-for-dinner/assets/burger-friends.jpg);
+  background-image: url(assets/burger-friends.jpg)
   background-size: cover;
   margin: 0px
 }
